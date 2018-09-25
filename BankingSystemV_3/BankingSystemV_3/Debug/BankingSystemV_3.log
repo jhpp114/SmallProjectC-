@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  BankingSystemV_3.cpp
+c:\users\jhpp1\desktop\smallprojectc-\bankingsystemv_3\bankingsystemv_3\bankingsystemv_3.cpp(79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jhpp1\desktop\smallprojectc-\bankingsystemv_3\bankingsystemv_3\bankingsystemv_3.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BankingSystemV_3.vcxproj -> C:\Users\jhpp1\Desktop\SmallProjectC-\BankingSystemV_3\Debug\BankingSystemV_3.exe
